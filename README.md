@@ -1,6 +1,7 @@
 # Pomodoro Clock
 
 This is a simple pomodoro clock. Use it while you are in your zen mode!
+Head to : https://pomodoro-qt1ngyisp-sid2202.vercel.app/
 ## Available Scripts
 
 In the project directory, you can run:
